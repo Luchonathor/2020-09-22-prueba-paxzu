@@ -1,0 +1,33 @@
+	
+	
+	
+	Explicar la diferencia entre include y require en php.
+
+	Que método utilizaría en jquery para capturar el evento click en un código que ha sido generado dinámicamente?
+		
+	Cual es la diferencia entre == y === en php.
+		
+	En linux como puedo ver un archivo de log de error en tiempo real?. 
+	
+	En linux como se le cambia el owner a un archivo por consola? dé un ejemplo.
+	
+	Utilizarias alguna vez 'truncate table' en una función de php? - Por que?
+		
+	Sabes que es PDO? cual es la diferencia entre usar mysql_query y PDO?
+		
+	Sabes para que se utilizan las funciones implode() y explode()? da un ejemplo de su uso
+	
+	Explica detalladamente como harias debug a un código de php.
+
+
+	
+
+
+	
+
+	
+	
+	
+	
+	
+	
